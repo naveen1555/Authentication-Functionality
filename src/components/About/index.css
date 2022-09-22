@@ -1,0 +1,12 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-heading {
+  font-family: 'Roboto';
+  font-size: 45px;
+  font-weight: 600;
+}

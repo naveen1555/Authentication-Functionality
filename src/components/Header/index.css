@@ -1,0 +1,11 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+
+.header-option {
+  list-style-type: none;
+  margin: 15px;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
